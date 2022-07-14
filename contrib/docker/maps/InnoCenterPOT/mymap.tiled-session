@@ -1,0 +1,114 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2672.5,
+                "y": 1195.5
+            }
+        },
+        "map.json#12_Kitchen_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#13_Conference_Hall_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#1_Generic_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#2_LivingRoom_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#3_Bathroom_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#5_Classroom_and_library_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Interiors_free_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Room_Builder_Arched_Entryways_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Room_Builder_Floor_Connectors_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Room_Builder_Floors_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Room_Builder_baseboards_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Room_Builder_borders_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#Room_Builder_free_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#UI_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Decoration": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Exterior": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Miscellaneous": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Other_Furniture": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Room_Builder": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Seats": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Special_Zones": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_Tables": {
+            "scaleInDock": 1.5
+        },
+        "map.json#WA_User_Interface": {
+            "scaleInDock": 1.5
+        },
+        "map.json#animated_door_5_locked_32x32": {
+            "scaleInDock": 1.5
+        },
+        "map.json#animated_door_big_5_32x32": {
+            "scaleInDock": 1.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/I538960/Documents/Innoweek/Map",
+    "last.imagePath": "C:/Users/I538960/Documents/Innoweek/Modern_Interiors_v41.2_test/Modern_Interiors/1_Interiors/32x32/Room_Bulder_subfiles_32x32",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "map.json"
+    ],
+    "project": "mymap.tiled-project",
+    "recentFiles": [
+        "map.json"
+    ],
+    "tileset.embedInMap": true
+}
